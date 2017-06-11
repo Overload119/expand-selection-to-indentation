@@ -6,7 +6,7 @@
   "keywords": [
     "vertical column selection expand sublime indentation"
   ],
-  "repository": "https://github.com/atom/expand-selection-to-indentation",
+  "repository": "https://github.com/Overload119/expand-selection-to-indentation",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
