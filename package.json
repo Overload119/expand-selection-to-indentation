@@ -2,7 +2,7 @@
   "name": "expand-selection-to-indentation",
   "main": "./lib/index",
   "version": "0.1.0",
-  "description": "Expands selection based on the indentation of the current line",
+  "description": "Expands vertical selection based on the indentation of the current line",
   "keywords": [
     "vertical column selection expand sublime indentation"
   ],
